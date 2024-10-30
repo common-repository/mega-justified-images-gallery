@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: megajig/admin/list.php:41
+msgid "Are you sure want to remove image this gallery?"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:59
+#: megajig/admin/edit.php:60
+msgid "Auto size"
+msgstr ""
+
+#. Text in echo
+#: megajig/inc/fields.php:104
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/list.php:31
+msgid "Create New Gallery"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:61
+msgid "Desktop screen size"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:18
+#: megajig/admin/list.php:22
+msgid "Dismiss this notice."
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:65
+msgid "Expand Viewer"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:14
+msgid "Gallery Settings"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:46
+msgid "Gallery Title"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:62
+msgid "Laptop screen size"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/list.php:18
+msgid "MegaJig Galleries"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:71
+msgid "No images found! Please add new ones."
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:57
+msgid "Preview"
+msgstr ""
+
+#. Text in echo
+#: megajig/inc/fields.php:103
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:39
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:69
+msgid "Select Images"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:64
+msgid "Smartphone screen size"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:31
+msgid "Sources"
+msgstr ""
+
+#. Text in echo
+#: megajig/admin/edit.php:63
+msgid "Tablet screen size"
+msgstr ""
